@@ -1,6 +1,6 @@
 # NeuroStartUp
 
-![Логотип](/feature/code-documentation/logo.png)
+![Логотип](/feature/code-documentation/logo2.png)
 
 NeuroStartUp — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта. Наши преимущества:
 
